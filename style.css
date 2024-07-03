@@ -144,7 +144,7 @@ body {
 }
 
 span {
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: var(--fw-regular);
   letter-spacing: -0.2px;
   line-height: 2rem;
